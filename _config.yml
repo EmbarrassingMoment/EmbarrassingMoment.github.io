@@ -1,0 +1,38 @@
+title: "EmbarrassingMoment Portfolio"
+description: "Unreal Engine 5 C++ Developer / Technical Artist Portfolio"
+url: "https://EmbarrassingMoment.github.io" # Standard GitHub Pages URL pattern
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "dark" # Optional: "default", "air", "contrast", "dark", "dirt", "mint", "plum", "sunrise", "neon"
+
+# Author / Profile Settings
+author:
+  name: "EmbarrassingMoment"
+  avatar: # Add an image path here if available, e.g., "/assets/images/avatar.jpg"
+  bio: "Unreal Engine 5 C++ Developer / Technical Artist"
+  location: "Japan"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/EmbarrassingMoment"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
