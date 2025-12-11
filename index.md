@@ -5,6 +5,8 @@ title: "About Me"
 permalink: /
 ---
 
+**[日本語ページはこちら](/ja/)**
+
 Hello! I am a dedicated **Unreal Engine 5 C++ Developer** and **Technical Artist**. I specialize in bridging the gap between engineering and art, developing robust tools and creating visually striking procedural content using **C++, UE5, HLSL, and Python**.
 
 ## Projects
