@@ -46,6 +46,7 @@ Material Instanceアセットの命名規則を自動化するための強力な
 ## コンタクト & リンク (Contact & Links)
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
+*   **Twitter/X:** [@endwar1338](https://x.com/endwar1338)
 *   **Fab:** [My Listings](https://www.fab.com/sellers/EmbarrassingMoment)
 
 ---

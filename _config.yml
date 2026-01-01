@@ -16,6 +16,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EmbarrassingMoment"
+    - label: "Twitter/X"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/endwar1338"
 
 # Plugins
 plugins:

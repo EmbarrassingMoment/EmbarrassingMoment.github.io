@@ -45,6 +45,7 @@ A tool designed to bake materials into textures directly within the engine.
 ## Contact & Links
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
+*   **Twitter/X:** [@endwar1338](https://x.com/endwar1338)
 *   **Fab:** [My Listings](https://www.fab.com/sellers/EmbarrassingMoment)
 
 ---
