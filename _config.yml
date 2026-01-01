@@ -8,10 +8,10 @@ minimal_mistakes_skin: "dark" # Optional: "default", "air", "contrast", "dark", 
 
 # Author / Profile Settings
 author:
-  name: "EmbarrassingMoment"
+  name: "Kurorekishi"
   avatar: # Add an image path here if available, e.g., "/assets/images/avatar.jpg"
   bio: "Unreal Engine 5 C++ Developer / Technical Artist"
-  location: "Japan"
+  location: "Osaka, Japan"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

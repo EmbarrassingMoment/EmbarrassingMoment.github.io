@@ -1,33 +1,52 @@
 ---
 layout: single
 author_profile: true
-title: "自己紹介"
+title: "About Me (Japanese)"
 permalink: /ja/
 ---
 
-**[English Page Here](/)**
+**[English Page Here (英語)](/)**
 
-はじめまして！私は大阪を拠点とする **Unreal Engine 5 C++ 開発者** 兼 **テクニカルアーティスト** です。
-エンジニアリングとアートの架け橋となることを得意とし、**C++, UE5, HLSL, Python** を駆使して、効率的なツール開発や高品質なプロシージャル表現の制作を行っています。
+はじめまして！私は大阪を拠点とする **Unreal Engine 5 C++ 開発者** 兼 **テクニカルアーティスト** の **Kurorekishi** です。
+エンジニアリングとアートの架け橋となることを得意とし、**C++, UE5, HLSL, Python** を駆使して、効率的なエディタツール開発や高品質なプロシージャル表現の制作を行っています。
+
+**アセット管理**、**ワークフローの最適化**、そして**ツール開発**に重点を置き、アーティストが効率的に作業でき、クリエイティビティを最大限に発揮できる環境づくりを目指しています。
 
 ## プロジェクト (Projects)
 
-ゲーム開発のワークフロー改善や、ビジュアル品質の向上を目的としたツール・サンプルを開発しています。
+### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
+**UE5 Plugin / ワークフロー自動化**
 
-### [MaterialBaker](https://github.com/EmbarrassingMoment/MaterialBaker)
-**UE5 エディタ拡張プラグイン (C++)**
+Material Instanceアセットの命名規則を自動化するための強力なプラグインです。
+*   **特徴:** バッチリネーム、自動リネーム、コマンドライン対応、多言語対応。
+*   **配布:** [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5) で公開中。
 
-マテリアルワークフローを効率化するための強力なUnreal Engine 5用エディタ拡張機能です。
-* **特徴:** 非同期マテリアルベイキング処理を実装し、エディタのフリーズを防ぎつつイテレーション時間を短縮。
-* **技術スタック:** C++, Unreal Engine 5, 非同期処理 (Asynchronous Processing)
+### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
+**UE5 Sample Project / テクニカルアート**
 
-### [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
-**プロシージャルマテリアル & シェーダーサンプル (Tech Art)**
+高度なシェーダー技術を実証する、テクスチャレスなプロシージャルマテリアルのサンプル集です。
+*   **特徴:** レーダー、アニメーション、雪の結晶、トランジションなど多様なエフェクトを収録。
+*   **コミュニティ:** GitHubで139スター、12フォークを獲得し、高い評価を得ています。
+*   **ライセンス:** MIT License。
 
-厳選されたプロシージャルマテリアルとシェーダー実装のサンプル集です。
-* **特徴:** 高品質なビジュアルエフェクトのための高度なシェーダーロジックとプロシージャル生成技術の実例。
-* **技術スタック:** HLSL, Material Graphs, Technical Art
+### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
+**UE5 Plugin / アセット最適化**
+
+グレースケールテクスチャをRGBAチャンネルに統合するユーティリティで、ゲームアセットの最適化に不可欠です。
+*   **特徴:** ORM/ORD/ORMマップ作成、16-bit/32-bitテクスチャ対応、自動リサイズ機能。
+*   **配布:** [Fab](https://www.fab.com/listings/7b231ecc-079f-45dc-9b8e-45dacc6b0771) で公開中。
+
+### 4. [QuickBaker](https://github.com/EmbarrassingMoment/QuickBaker)
+**UE5 Plugin / マテリアルベイク**
+
+エンジン内で直接マテリアルをテクスチャにベイク（焼き付け）するためのツールです。
+*   **特徴:** PNG/EXR/Asset出力、8-16bit深度対応、プロシージャルノイズやSDFの効率的な処理。
+*   **ライセンス:** MIT License。
+
+## コンタクト & リンク (Contact & Links)
+
+*   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
+*   **Fab:** [My Listings](https://www.fab.com/sellers/EmbarrassingMoment)
 
 ---
-
 [<i class="fab fa-github"></i> GitHubプロフィールを見る](https://github.com/EmbarrassingMoment){: .btn .btn--primary .btn--large}
