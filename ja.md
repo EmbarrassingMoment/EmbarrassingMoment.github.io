@@ -51,9 +51,10 @@ Material Instanceアセットの命名規則を自動化するための強力な
 ### 4. [QuickBaker](https://github.com/EmbarrassingMoment/QuickBaker)
 **UE5 Plugin / マテリアルベイク**
 
-エンジン内で直接マテリアルをテクスチャにベイク（焼き付け）するためのツールです。
-*   **特徴:** PNG/EXR/Asset出力、8-16bit深度対応、プロシージャルノイズやSDFの効率的な処理。
+動的なマテリアル表現を静的なテクスチャへ効率的に変換するためのエディタツールです。プロシージャルノイズやSigned Distance Fields (SDF)、LUTなどをエンジン内で直接ベイクすることが可能です。
+*   **特徴:** アセット(.uasset)への直接保存およびディスクへのエクスポート(PNG/EXR)、16bit浮動小数点精度のサポート、自動命名やディレクトリ管理などのワークフロー最適化機能。
 *   **ライセンス:** MIT License。
+*   **配布:** [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9) で公開中。
 
 ## コンタクト & リンク (Contact & Links)
 
