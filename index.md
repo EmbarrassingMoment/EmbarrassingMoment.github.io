@@ -11,6 +11,18 @@ Hello! I am **Kurorekishi**, an **Unreal Engine 5 C++ Developer** and **Technica
 
 With a strong focus on **asset management, workflow optimization**, and **tool development**, I strive to create environments where artists can work efficiently and creativity can flourish.
 
+## Technical Skills
+- **Game Engines:** Unreal Engine 5 (C++, HLSL), Cocos Creator 3.8 (TypeScript)
+- **Languages:** C++, TypeScript, Java, Objective-C, HLSL, Python
+- **Tools:** Jenkins (CI/CD), Git, Backlog, Node.js
+- **Specialties:** Editor Tool Development, Procedural Material, Technical Art, Team Leadership
+
+## Work Experience Highlights
+- Lead Programmer (7 engineers, 25-person team)
+- CI/CD Pipeline Implementation (Jenkins, build optimization)
+- Artist/Planner Coordination & Workflow Optimization
+- Junior Developer Training (2 developers, 3-month program)
+
 ## Projects
 
 ### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
