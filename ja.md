@@ -12,6 +12,18 @@ permalink: /ja/
 
 **アセット管理**、**ワークフローの最適化**、そして**ツール開発**に重点を置き、アーティストが効率的に作業でき、クリエイティビティを最大限に発揮できる環境づくりを目指しています。
 
+## 技術スキル (Technical Skills)
+- **ゲームエンジン:** Unreal Engine 5 (C++, HLSL), Cocos Creator 3.8 (TypeScript)
+- **言語:** C++, TypeScript, Java, Objective-C, HLSL, Python
+- **ツール:** Jenkins (CI/CD), Git, Backlog, Node.js
+- **専門分野:** エディタツール開発, プロシージャルマテリアル, テクニカルアート, チームリーダーシップ
+
+## 主な職務経歴 (Work Experience Highlights)
+- リードプログラマ (エンジニア7名、チーム25名)
+- CI/CDパイプライン導入 (Jenkins, ビルド最適化)
+- アーティスト・プランナー間の調整 & ワークフロー最適化
+- 若手エンジニア育成 (2名、3ヶ月プログラム)
+
 ## プロジェクト (Projects)
 
 ### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
