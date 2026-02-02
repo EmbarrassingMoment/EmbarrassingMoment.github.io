@@ -44,9 +44,11 @@ A collection of textureless procedural material samples demonstrating advanced s
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
 **UE5 Plugin / Asset Optimization**
 
-A utility for packing grayscale textures into RGBA channels, essential for optimizing game assets.
-*   **Key Features:** Creates ORM/ORD/ORM maps, supports 16-bit/32-bit textures, and includes automatic resizing capabilities.
+A high-performance utility for packing grayscale textures into RGBA channels, essential for optimizing game assets and creating industry-standard texture maps.
+*   **Key Features:** Creates ORM/ORD maps, supports 16-bit/32-bit float textures, automatic resizing with high-quality bilinear interpolation, and multi-language UI (English/Japanese).
+*   **Technical Highlights:** Multi-threaded parallel processing for fast conversion, extended format support (G8, G16, R16F, R32F, RGBA32F), cancellable progress dialog, and intelligent default handling (black for RGB, white for Alpha).
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/7b231ecc-079f-45dc-9b8e-45dacc6b0771).
+*   **License:** MIT License.
 
 ### 4. [QuickBaker](https://github.com/EmbarrassingMoment/QuickBaker)
 **UE5 Plugin / Material Baking**
