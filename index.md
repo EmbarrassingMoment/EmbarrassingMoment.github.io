@@ -28,8 +28,9 @@ With a strong focus on **asset management, workflow optimization**, and **tool d
 ### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
 **UE5 Plugin / Workflow Automation**
 
-A powerful plugin for automating the naming of Material Instance assets.
-*   **Key Features:** Batch renaming, auto-renaming, command-line support, and multi-language support.
+A powerful plugin for automating the naming of Material Instance assets with intelligent pattern recognition and customizable prefixes.
+*   **Key Features:** Batch renaming, auto-rename on creation, command-line support (Commandlet), and multi-language UI (English/Japanese).
+*   **Technical Highlights:** Context menu integration, asset registry scanning, intelligent base name extraction from multiple naming patterns, and CI/CD pipeline support.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5).
 
 ### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)

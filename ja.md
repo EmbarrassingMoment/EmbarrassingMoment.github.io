@@ -29,8 +29,9 @@ permalink: /ja/
 ### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
 **UE5 Plugin / ワークフロー自動化**
 
-Material Instanceアセットの命名規則を自動化するための強力なプラグインです。
-*   **特徴:** バッチリネーム、自動リネーム、コマンドライン対応、多言語対応。
+インテリジェントなパターン認識とカスタマイズ可能なプレフィックスを備えた、Material Instanceアセットの命名を自動化するための強力なプラグインです。
+*   **特徴:** バッチリネーム、作成時の自動リネーム、コマンドライン対応 (Commandlet)、多言語UI (英語/日本語)。
+*   **技術的ハイライト:** コンテキストメニュー統合、アセットレジストリスキャン、複数の命名パターンからのインテリジェントなベース名抽出、CI/CDパイプラインサポート。
 *   **配布:** [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5) で公開中。
 
 ### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
