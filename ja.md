@@ -45,9 +45,11 @@ permalink: /ja/
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
 **UE5 Plugin / アセット最適化**
 
-グレースケールテクスチャをRGBAチャンネルに統合するユーティリティで、ゲームアセットの最適化に不可欠です。
-*   **特徴:** ORM/ORD/ORMマップ作成、16-bit/32-bitテクスチャ対応、自動リサイズ機能。
+グレースケールテクスチャをRGBAチャンネルに統合する高性能ユーティリティで、ゲームアセットの最適化と業界標準テクスチャマップの作成に不可欠です。
+*   **特徴:** ORM/ORDマップ作成、16-bit/32-bit浮動小数点テクスチャ対応、高品質バイリニア補間による自動リサイズ、多言語UI (英語/日本語)。
+*   **技術的ハイライト:** 高速変換のためのマルチスレッド並列処理、拡張フォーマットサポート (G8, G16, R16F, R32F, RGBA32F)、キャンセル可能な進捗ダイアログ、インテリジェントなデフォルト処理 (RGBは黒、Alphaは白)。
 *   **配布:** [Fab](https://www.fab.com/listings/7b231ecc-079f-45dc-9b8e-45dacc6b0771) で公開中。
+*   **ライセンス:** MIT License。
 
 ### 4. [QuickBaker](https://github.com/EmbarrassingMoment/QuickBaker)
 **UE5 Plugin / マテリアルベイク**
