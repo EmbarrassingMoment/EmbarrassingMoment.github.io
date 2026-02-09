@@ -49,6 +49,17 @@ toc_icon: "list-ul"
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
 **UE5 Plugin / アセット最適化**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/workflow.gif" alt="Workflow Demo" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Workflow Demo</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
+  </div>
+</div>
+
 グレースケールテクスチャをRGBAチャンネルに統合する高性能ユーティリティで、ゲームアセットの最適化と業界標準テクスチャマップの作成に不可欠です。
 *   **特徴:** ORM/ORDマップ作成、16-bit/32-bit浮動小数点テクスチャ対応、高品質バイリニア補間による自動リサイズ、多言語UI (英語/日本語)。
 *   **技術的ハイライト:** 高速変換のためのマルチスレッド並列処理、拡張フォーマットサポート (G8, G16, R16F, R32F, RGBA32F)、キャンセル可能な進捗ダイアログ、インテリジェントなデフォルト処理 (RGBは黒、Alphaは白)。
