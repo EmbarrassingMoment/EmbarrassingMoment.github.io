@@ -106,8 +106,8 @@ toc_icon: "list-ul"
 
 ## 技術記事 (Technical Writing)
 
-* **[UE5] ポストプロセスで円形ワイプを作る** - Qiita
-    * Unreal Engine 5のポストプロセスマテリアルを使って、円形に開閉するトランジションエフェクトを実装する方法を解説しました。
+* **【UE5】円形ワイプで学ぶ、ポストプロセスのアスペクト比補正** - Qiita
+    * 円形ワイプ演出を題材に、ポストプロセスマテリアルでアスペクト比補正を行う方法を解説しました。
     * [Qiitaで読む](https://qiita.com/EmbarrassingMoment/items/11e74b18a5488e84757d)
 
 ## コンタクト & リンク (Contact & Links)
