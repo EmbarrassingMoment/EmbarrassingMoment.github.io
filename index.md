@@ -61,7 +61,7 @@ A powerful plugin for automating the naming of Material Instance assets with int
 
 A collection of textureless procedural material samples demonstrating advanced shader techniques.
 *   **Key Features:** Includes diverse effects such as radar, animations, snowflakes, and transitions.
-*   **Community:** Highly regarded with 139+ stars and 12+ forks on GitHub.
+*   **Community:** Highly regarded with 145+ stars and 13+ forks on GitHub.
 *   **License:** MIT License.
 
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
