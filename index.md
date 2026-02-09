@@ -62,7 +62,7 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
 *   **Twitter/X:** [@endwar1338](https://x.com/endwar1338)
-*   **Fab:** [My Listings](https://www.fab.com/sellers/EmbarrassingMoment)
+*   **Fab:** [My Listings](https://www.fab.com/sellers/kurorekishi)
 
 ---
 [<i class="fab fa-github"></i> View My GitHub Profile](https://github.com/EmbarrassingMoment){: .btn .btn--primary .btn--large}

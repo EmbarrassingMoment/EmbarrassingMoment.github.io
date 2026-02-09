@@ -19,6 +19,9 @@ author:
     - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter"
       url: "https://x.com/endwar1338"
+    - label: "Fab Store"
+      icon: "fas fa-fw fa-store"
+      url: "https://www.fab.com/sellers/kurorekishi"
 
 # Plugins
 plugins:
