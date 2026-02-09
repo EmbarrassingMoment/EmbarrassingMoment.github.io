@@ -62,7 +62,7 @@ toc_icon: "list-ul"
 
 高度なシェーダー技術を実証する、テクスチャレスなプロシージャルマテリアルのサンプル集です。
 *   **特徴:** レーダー、アニメーション、雪の結晶、トランジションなど多様なエフェクトを収録。
-*   **コミュニティ:** GitHubで139スター、12フォークを獲得し、高い評価を得ています。
+*   **コミュニティ:** GitHubで145スター、13フォークを獲得し、高い評価を得ています。
 *   **ライセンス:** MIT License。
 
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
