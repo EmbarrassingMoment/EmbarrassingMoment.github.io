@@ -68,6 +68,17 @@ A high-performance utility for packing grayscale textures into RGBA channels, es
 ### 4. [QuickBaker](https://github.com/EmbarrassingMoment/QuickBaker)
 **UE5 Plugin / Material Baking**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/quickbaker/workflow.gif" alt="Baking Workflow" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Baking Workflow</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/quickbaker/window_en.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
+  </div>
+</div>
+
 A lightweight editor tool designed to streamline the conversion of dynamic material expressions into static textures. It enables efficient baking of procedural noise, Signed Distance Fields (SDFs), and LUTs directly within the engine.
 *   **Key Features:** Supports direct-to-asset baking (.uasset) and disk export (PNG/EXR), high-precision 16-bit float output, and workflow optimizations such as auto-naming and directory management.
 *   **License:** MIT License.

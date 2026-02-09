@@ -69,6 +69,17 @@ toc_icon: "list-ul"
 ### 4. [QuickBaker](https://github.com/EmbarrassingMoment/QuickBaker)
 **UE5 Plugin / マテリアルベイク**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/quickbaker/workflow.gif" alt="Baking Workflow" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ベイク処理のワークフロー</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/quickbaker/window_ja.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI概観 (日本語対応)</p>
+  </div>
+</div>
+
 動的なマテリアル表現を静的なテクスチャへ効率的に変換するためのエディタツールです。プロシージャルノイズやSigned Distance Fields (SDF)、LUTなどをエンジン内で直接ベイクすることが可能です。
 *   **特徴:** アセット(.uasset)への直接保存およびディスクへのエクスポート(PNG/EXR)、16bit浮動小数点精度のサポート、自動命名やディレクトリ管理などのワークフロー最適化機能。
 *   **ライセンス:** MIT License。
