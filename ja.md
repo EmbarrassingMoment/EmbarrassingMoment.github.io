@@ -63,7 +63,7 @@ permalink: /ja/
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
 *   **Twitter/X:** [@endwar1338](https://x.com/endwar1338)
-*   **Fab:** [My Listings](https://www.fab.com/sellers/EmbarrassingMoment)
+*   **Fab:** [My Listings](https://www.fab.com/sellers/kurorekishi)
 
 ---
 [<i class="fab fa-github"></i> GitHubプロフィールを見る](https://github.com/EmbarrassingMoment){: .btn .btn--primary .btn--large}
