@@ -129,6 +129,17 @@ toc_icon: "list-ul"
     * 円形ワイプ演出を題材に、ポストプロセスマテリアルでアスペクト比補正を行う方法を解説しました。
     * [Qiitaで読む](https://qiita.com/EmbarrassingMoment/items/11e74b18a5488e84757d)
 
+## GitHub活動状況 (GitHub Activity)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="width: 100%;">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;">
+  </div>
+</div>
+
 ## コンタクト & リンク (Contact & Links)
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)

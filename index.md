@@ -128,6 +128,17 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
     * A technical guide on creating a circular wipe post-process effect in Unreal Engine 5.
     * [Read on Qiita (Japanese)](https://qiita.com/EmbarrassingMoment/items/11e74b18a5488e84757d)
 
+## GitHub Activity
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="width: 100%;">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;">
+  </div>
+</div>
+
 ## Contact & Links
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
