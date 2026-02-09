@@ -16,10 +16,29 @@ Hello! I am **Kurorekishi**, an **Unreal Engine 5 C++ Developer** and **Technica
 With a strong focus on **asset management, workflow optimization**, and **tool development**, I strive to create environments where artists can work efficiently and creativity can flourish.
 
 ## Technical Skills
-- **Game Engines:** Unreal Engine 5 (C++, HLSL), Cocos Creator 3.8 (TypeScript)
-- **Languages:** C++, TypeScript, Java, Objective-C, HLSL, Python
-- **Tools:** Jenkins (CI/CD), Git, Backlog, Node.js
-- **Specialties:** Editor Tool Development, Procedural Material, Technical Art, Team Leadership
+
+**Game Engines**
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-2C3E50?style=for-the-badge&logoColor=white)
+
+**Languages**
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=directx&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white)
+
+**Tools & DevOps**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Backlog](https://img.shields.io/badge/Backlog-23AC38?style=for-the-badge&logoColor=white)
+
+**Specialties**
+* Editor Tool Development
+* Procedural Material / Technical Art
+* Workflow Optimization & Team Leadership
 
 ## Work Experience Highlights
 - Lead Programmer (7 engineers, 25-person team)
