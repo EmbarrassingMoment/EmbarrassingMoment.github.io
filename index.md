@@ -62,6 +62,12 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 *   **License:** MIT License.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9).
 
+## Technical Writing
+
+* **[UE5] Implementing a Circular Wipe Transition** - Qiita
+    * A technical guide on creating a circular wipe post-process effect in Unreal Engine 5.
+    * [Read on Qiita (Japanese)](https://qiita.com/EmbarrassingMoment/items/11e74b18a5488e84757d)
+
 ## Contact & Links
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)

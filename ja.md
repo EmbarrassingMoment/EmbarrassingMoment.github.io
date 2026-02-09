@@ -63,6 +63,12 @@ toc_icon: "list-ul"
 *   **ライセンス:** MIT License。
 *   **配布:** [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9) で公開中。
 
+## 技術記事 (Technical Writing)
+
+* **[UE5] ポストプロセスで円形ワイプを作る** - Qiita
+    * Unreal Engine 5のポストプロセスマテリアルを使って、円形に開閉するトランジションエフェクトを実装する方法を解説しました。
+    * [Qiitaで読む](https://qiita.com/EmbarrassingMoment/items/11e74b18a5488e84757d)
+
 ## コンタクト & リンク (Contact & Links)
 
 *   **GitHub:** [EmbarrassingMoment](https://github.com/EmbarrassingMoment)
