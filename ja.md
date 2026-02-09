@@ -17,10 +17,29 @@ toc_icon: "list-ul"
 **アセット管理**、**ワークフローの最適化**、そして**ツール開発**に重点を置き、アーティストが効率的に作業でき、クリエイティビティを最大限に発揮できる環境づくりを目指しています。
 
 ## 技術スキル (Technical Skills)
-- **ゲームエンジン:** Unreal Engine 5 (C++, HLSL), Cocos Creator 3.8 (TypeScript)
-- **言語:** C++, TypeScript, Java, Objective-C, HLSL, Python
-- **ツール:** Jenkins (CI/CD), Git, Backlog, Node.js
-- **専門分野:** エディタツール開発, プロシージャルマテリアル, テクニカルアート, チームリーダーシップ
+
+**ゲームエンジン (Game Engines)**
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-2C3E50?style=for-the-badge&logoColor=white)
+
+**プログラミング言語 (Languages)**
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=directx&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white)
+
+**ツール & DevOps**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Backlog](https://img.shields.io/badge/Backlog-23AC38?style=for-the-badge&logoColor=white)
+
+**専門分野 (Specialties)**
+* エディタツール開発 (Editor Tool Development)
+* プロシージャルマテリアル / テクニカルアート
+* ワークフロー最適化 & チームリーダーシップ
 
 ## 主な職務経歴 (Work Experience Highlights)
 - リードプログラマ (エンジニア7名、チーム25名)
