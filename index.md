@@ -40,6 +40,25 @@ A powerful plugin for automating the naming of Material Instance assets with int
 ### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
 **UE5 Sample Project / Technical Art**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/Rader.gif" alt="Radar" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Radar Sweep</p>
+  </div>
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/OldTV.gif" alt="Old TV" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Retro TV Effect</p>
+  </div>
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/PageCurl.gif" alt="Page Curl" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Page Curl Transition</p>
+  </div>
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/Snow.gif" alt="Snow" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Snow Crystal</p>
+  </div>
+</div>
+
 A collection of textureless procedural material samples demonstrating advanced shader techniques.
 *   **Key Features:** Includes diverse effects such as radar, animations, snowflakes, and transitions.
 *   **Community:** Highly regarded with 139+ stars and 12+ forks on GitHub.
