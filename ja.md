@@ -3,6 +3,10 @@ layout: single
 author_profile: true
 title: "About Me (Japanese)"
 permalink: /ja/
+toc: true
+toc_sticky: true
+toc_label: "目次"
+toc_icon: "list-ul"
 ---
 
 **[English Page Here (英語)](/)**

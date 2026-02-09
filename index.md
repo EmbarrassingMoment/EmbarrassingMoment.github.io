@@ -3,6 +3,10 @@ layout: single
 author_profile: true
 title: "About Me"
 permalink: /
+toc: true
+toc_sticky: true
+toc_label: "Contents"
+toc_icon: "list-ul"
 ---
 
 **[日本語ページはこちら (Japanese)](/ja/)**
