@@ -41,6 +41,25 @@ toc_icon: "list-ul"
 ### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
 **UE5 Sample Project / テクニカルアート**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/Rader.gif" alt="Radar" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">レーダースイープ</p>
+  </div>
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/OldTV.gif" alt="Old TV" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">レトロテレビ風エフェクト</p>
+  </div>
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/PageCurl.gif" alt="Page Curl" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ページめくりトランジション</p>
+  </div>
+  <div style="flex: 1 0 45%; min-width: 250px;">
+    <img src="/assets/images/procedural/Snow.gif" alt="Snow" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">雪の結晶</p>
+  </div>
+</div>
+
 高度なシェーダー技術を実証する、テクスチャレスなプロシージャルマテリアルのサンプル集です。
 *   **特徴:** レーダー、アニメーション、雪の結晶、トランジションなど多様なエフェクトを収録。
 *   **コミュニティ:** GitHubで139スター、12フォークを獲得し、高い評価を得ています。
