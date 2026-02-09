@@ -48,6 +48,17 @@ A collection of textureless procedural material samples demonstrating advanced s
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
 **UE5 Plugin / Asset Optimization**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/workflow.gif" alt="Workflow Demo" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Workflow Demo</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
+  </div>
+</div>
+
 A high-performance utility for packing grayscale textures into RGBA channels, essential for optimizing game assets and creating industry-standard texture maps.
 *   **Key Features:** Creates ORM/ORD maps, supports 16-bit/32-bit float textures, automatic resizing with high-quality bilinear interpolation, and multi-language UI (English/Japanese).
 *   **Technical Highlights:** Multi-threaded parallel processing for fast conversion, extended format support (G8, G16, R16F, R32F, RGBA32F), cancellable progress dialog, and intelligent default handling (black for RGB, white for Alpha).
