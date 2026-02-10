@@ -52,6 +52,17 @@ toc_icon: "list-ul"
 ### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
 **UE5 Plugin / ワークフロー自動化**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">バッチリネームのデモ</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">コンテキストメニュー統合</p>
+  </div>
+</div>
+
 インテリジェントなパターン認識とカスタマイズ可能なプレフィックスを備えた、Material Instanceアセットの命名を自動化するための強力なプラグインです。
 *   **特徴:** バッチリネーム、作成時の自動リネーム、コマンドライン対応 (Commandlet)、多言語UI (英語/日本語)。
 *   **技術的ハイライト:** コンテキストメニュー統合、アセットレジストリスキャン、複数の命名パターンからのインテリジェントなベース名抽出、CI/CDパイプラインサポート。
