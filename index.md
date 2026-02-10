@@ -51,6 +51,17 @@ With a strong focus on **asset management, workflow optimization**, and **tool d
 ### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
 **UE5 Plugin / Workflow Automation**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Batch Renaming Demo</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Context Menu Integration</p>
+  </div>
+</div>
+
 A powerful plugin for automating the naming of Material Instance assets with intelligent pattern recognition and customizable prefixes.
 *   **Key Features:** Batch renaming, auto-rename on creation, command-line support (Commandlet), and multi-language UI (English/Japanese).
 *   **Technical Highlights:** Context menu integration, asset registry scanning, intelligent base name extraction from multiple naming patterns, and CI/CD pipeline support.
