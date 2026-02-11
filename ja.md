@@ -144,10 +144,10 @@ toc_icon: "list-ul"
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;">
   </div>
 </div>
 
