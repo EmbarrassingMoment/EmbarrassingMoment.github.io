@@ -51,26 +51,7 @@ toc_icon: "list-ul"
 
 ## プロジェクト (Projects)
 
-### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
-**UE5 Plugin / ワークフロー自動化**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
-    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">バッチリネームのデモ</p>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
-    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">コンテキストメニュー統合</p>
-  </div>
-</div>
-
-インテリジェントなパターン認識とカスタマイズ可能なプレフィックスを備えた、Material Instanceアセットの命名を自動化するための強力なプラグインです。
-*   **特徴:** バッチリネーム、作成時の自動リネーム、コマンドライン対応 (Commandlet)、多言語UI (英語/日本語)。
-*   **技術的ハイライト:** コンテキストメニュー統合、アセットレジストリスキャン、複数の命名パターンからのインテリジェントなベース名抽出、CI/CDパイプラインサポート。
-*   **配布:** [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5) で公開中。
-
-### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
+### 1. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
 **UE5 Sample Project / テクニカルアート**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
@@ -96,6 +77,25 @@ toc_icon: "list-ul"
 *   **特徴:** レーダー、アニメーション、雪の結晶、トランジションなど多様なエフェクトを収録。
 *   **コミュニティ:** GitHubで145スター、13フォークを獲得し、高い評価を得ています。
 *   **ライセンス:** MIT License。
+
+### 2. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
+**UE5 Plugin / ワークフロー自動化**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">バッチリネームのデモ</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">コンテキストメニュー統合</p>
+  </div>
+</div>
+
+インテリジェントなパターン認識とカスタマイズ可能なプレフィックスを備えた、Material Instanceアセットの命名を自動化するための強力なプラグインです。
+*   **特徴:** バッチリネーム、作成時の自動リネーム、コマンドライン対応 (Commandlet)、多言語UI (英語/日本語)。
+*   **技術的ハイライト:** コンテキストメニュー統合、アセットレジストリスキャン、複数の命名パターンからのインテリジェントなベース名抽出、CI/CDパイプラインサポート。
+*   **配布:** [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5) で公開中。
 
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
 **UE5 Plugin / アセット最適化**
@@ -131,7 +131,7 @@ toc_icon: "list-ul"
   </div>
 </div>
 
-動的なマテリアル表現を静的なテクスチャへ効率的に変換するためのエディタツールです。プロシージャルノイズやSigned Distance Fields (SDF)、LUTなどをエンジン内で直接ベイクすることが可能です。
+動的なマテリアル表現を静的なテクスチャへ効率的に変換するためのエディタツールです。プロシージャルノイズやSigned Distance Fields (SDFs)、LUTなどをエンジン内で直接ベイクすることが可能です。
 *   **特徴:** アセット(.uasset)への直接保存およびディスクへのエクスポート(PNG/EXR)、16bit浮動小数点精度のサポート、自動命名やディレクトリ管理などのワークフロー最適化機能。
 *   **ライセンス:** MIT License。
 *   **配布:** [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9) で公開中。

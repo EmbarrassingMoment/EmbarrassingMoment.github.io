@@ -50,26 +50,7 @@ With a strong focus on **asset management, workflow optimization**, and **tool d
 
 ## Projects
 
-### 1. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
-**UE5 Plugin / Workflow Automation**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
-    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Batch Renaming Demo</p>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
-    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Context Menu Integration</p>
-  </div>
-</div>
-
-A powerful plugin for automating the naming of Material Instance assets with intelligent pattern recognition and customizable prefixes.
-*   **Key Features:** Batch renaming, auto-rename on creation, command-line support (Commandlet), and multi-language UI (English/Japanese).
-*   **Technical Highlights:** Context menu integration, asset registry scanning, intelligent base name extraction from multiple naming patterns, and CI/CD pipeline support.
-*   **Distribution:** Available on [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5).
-
-### 2. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
+### 1. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
 **UE5 Sample Project / Technical Art**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
@@ -95,6 +76,25 @@ A collection of textureless procedural material samples demonstrating advanced s
 *   **Key Features:** Includes diverse effects such as radar, animations, snowflakes, and transitions.
 *   **Community:** Highly regarded with 145+ stars and 13+ forks on GitHub.
 *   **License:** MIT License.
+
+### 2. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
+**UE5 Plugin / Workflow Automation**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Batch Renaming Demo</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Context Menu Integration</p>
+  </div>
+</div>
+
+A powerful plugin for automating the naming of Material Instance assets with intelligent pattern recognition and customizable prefixes.
+*   **Key Features:** Batch renaming, auto-rename on creation, command-line support (Commandlet), and multi-language UI (English/Japanese).
+*   **Technical Highlights:** Context menu integration, asset registry scanning, intelligent base name extraction from multiple naming patterns, and CI/CD pipeline support.
+*   **Distribution:** Available on [Fab](https://www.fab.com/listings/0523dde6-2cc5-4129-9d83-78584910d5a5).
 
 ### 3. [TextureChannelPacker (RGBPackingTool)](https://github.com/EmbarrassingMoment/RGBPackingTool)
 **UE5 Plugin / Asset Optimization**
