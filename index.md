@@ -11,7 +11,9 @@ toc_icon: "list-ul"
 
 **[日本語ページはこちら (Japanese)](/ja/)**
 
-Hello! I am **Kurorekishi**, an **Unreal Engine 5 C++ Developer** and **Technical Artist** based in Osaka, Japan. I specialize in bridging the gap between engineering and art, developing robust editor tools, and creating visually striking procedural content using **C++, UE5, HLSL, and Python**.
+Hello! I am **Kurorekishi**. While I work professionally as a **Lead Programmer using Cocos Creator (TypeScript)**, my personal focus and passion lie in **Unreal Engine 5 Tool Development** and **Technical Art**.
+
+I specialize in bridging the gap between engineering and art, developing robust editor tools and creating visually striking procedural content using **C++, UE5, HLSL, and Python**.
 
 With a strong focus on **asset management, workflow optimization**, and **tool development**, I strive to create environments where artists can work efficiently and creativity can flourish.
 
@@ -41,7 +43,7 @@ With a strong focus on **asset management, workflow optimization**, and **tool d
 * Workflow Optimization & Team Leadership
 
 ## Work Experience Highlights
-- Lead Programmer (7 engineers, 25-person team)
+- Lead Programmer - Cocos Creator / TypeScript (7 engineers, 25-person team)
 - CI/CD Pipeline Implementation (Jenkins, build optimization)
 - Artist/Planner Coordination & Workflow Optimization
 - Junior Developer Training (2 developers, 3-month program)
