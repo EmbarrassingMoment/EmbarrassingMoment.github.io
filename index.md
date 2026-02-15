@@ -82,11 +82,11 @@ A collection of textureless procedural material samples demonstrating advanced s
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Batch Renaming Demo</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/mirenamer/context_menu.jpg" alt="Context Menu Integration" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Context Menu Integration</p>
   </div>
 </div>
@@ -101,11 +101,11 @@ A powerful plugin for automating the naming of Material Instance assets with int
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/workflow.gif" alt="Workflow Demo" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/workflow.gif" alt="Workflow Demo" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Workflow Demo</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
   </div>
 </div>
@@ -121,11 +121,11 @@ A high-performance utility for packing grayscale textures into RGBA channels, es
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/quickbaker/workflow.gif" alt="Baking Workflow" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/quickbaker/workflow.gif" alt="Baking Workflow" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Baking Workflow</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/quickbaker/window_en.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/quickbaker/window_en.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
   </div>
 </div>
@@ -145,10 +145,10 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;" loading="lazy">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;" loading="lazy">
   </div>
 </div>
 
