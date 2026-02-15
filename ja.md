@@ -64,7 +64,7 @@ toc_icon: "list-ul"
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">レトロテレビ風エフェクト</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/PageCurl.gif" alt="Page Curl" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/procedural/PageCurl.gif" alt="Page Curl" loading="lazy" style="width: 100%; border-radius: 4px;">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ページめくりトランジション</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
