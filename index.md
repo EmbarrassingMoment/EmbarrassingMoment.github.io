@@ -48,6 +48,18 @@ With a strong focus on **asset management, workflow optimization**, and **tool d
 - Artist/Planner Coordination & Workflow Optimization
 - Junior Developer Training (2 developers, 3-month program)
 
+## Engine Contributions
+
+### Unreal Engine 5 Source Code
+**[PR #14424: Fix missing Convert node in Material Editor context menu (Under Review)](https://github.com/EpicGames/UnrealEngine/pull/14424)**
+*Note: Access to the Epic Games repository is required to view this link.*
+
+Identified a regression bug in the Material Editor occurring in UE5.6/5.7 and submitted a C++ patch (Pull Request) to the official repository.
+
+* **Issue:** A regression where the Convert node was excluded from search candidates when dragging from a numeric output pin and searching for "Break" or similar.
+* **Root Cause Identification:** Identified that the engine's node search validation (`HasCompatibleConnection`) references static type information from the CDO (Class Default Object), whereas the new specification of `UMaterialExpressionConvert` generates pins dynamically at runtime, causing type information to be missing on the CDO and resulting in exclusion from candidates.
+* **Solution:** Added logic to the C++ engine code to bypass the CDO check for the target node as a special case when the source pin is of a numeric type (`MCT_Numeric`).
+
 ## Projects
 
 ### 1. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
