@@ -49,6 +49,18 @@ toc_icon: "list-ul"
 - アーティスト・プランナー間の調整 & ワークフロー最適化
 - 若手エンジニア育成 (2名、3ヶ月プログラム)
 
+## エンジンへの貢献 (Engine Contributions)
+
+### Unreal Engine 5 Source Code
+**[PR #14424: Fix missing Convert node in Material Editor context menu (Under Review)](https://github.com/EpicGames/UnrealEngine/pull/14424)**
+*※リンクの閲覧にはEpic Gamesリポジトリへのアクセス権限が必要です。*
+
+UE5.6/5.7で発生していたマテリアルエディタのリグレッションバグを特定し、C++による修正パッチ（Pull Request）を本家リポジトリへ提出しました。
+
+* **課題:** 数値出力ピンからドラッグして「Break」などを検索した際、Convertノードが検索候補から除外されてしまうエンバグ。
+* **根本原因の特定:** エンジンのノード検索判定(`HasCompatibleConnection`)がCDO(Class Default Object)の静的な型情報を参照しているのに対し、新仕様の`UMaterialExpressionConvert`は実行時にピンを動的生成するため、CDO上で型情報が欠落し候補から外れていることを特定。
+* **解決策:** ドラッグ元のピンが数値型(`MCT_Numeric`)の場合に、対象ノードのCDOチェックを特例としてバイパスする処理をC++のエンジンコードに追加。
+
 ## プロジェクト (Projects)
 
 ### 1. [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)
