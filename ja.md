@@ -68,7 +68,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/Rader.gif" alt="Radar" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/procedural/Rader.gif" alt="Radar" loading="lazy" style="width: 100%; border-radius: 4px;">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">レーダースイープ</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
