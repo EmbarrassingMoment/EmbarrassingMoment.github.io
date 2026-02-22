@@ -80,7 +80,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ページめくりトランジション</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/Snow.gif" alt="Snow" style="width: 100%; border-radius: 4px;">
+    <img src="/assets/images/procedural/Snow.gif" alt="Snow" loading="lazy" style="width: 100%; border-radius: 4px;">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">雪の結晶</p>
   </div>
 </div>
