@@ -86,7 +86,7 @@ Identified a regression bug in the Material Editor occurring in UE5.6/5.7 and su
 
 A collection of textureless procedural material samples demonstrating advanced shader techniques.
 *   **Key Features:** Includes diverse effects such as radar, animations, snowflakes, and transitions.
-*   **Community:** Highly regarded with 145+ stars and 13+ forks on GitHub.
+*   **Community:** Highly regarded with 150+ stars and 13+ forks on GitHub.
 *   **License:** MIT License.
 
 ### 2. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
