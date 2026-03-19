@@ -148,6 +148,24 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 *   **ライセンス:** MIT License。
 *   **配布:** [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9) で公開中。
 
+### 5. [MarkdownAssetProject](https://github.com/EmbarrassingMoment/MarkdownAssetProject)
+**UE5 Plugin / エディタツール**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/markdownasset/editor-overview-ja.png" alt="Editor Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">エディタの概要</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/markdownasset/live-preview.gif" alt="Live Preview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ライブプレビュー</p>
+  </div>
+</div>
+
+カスタムMarkdownアセットタイプとライブHTMLプレビューエディタを導入するUnreal Engineプラグインです。
+*   **特徴:** リアルタイムプレビューを備えたデュアルペインエディタ、C言語ベースの高速なMarkdownからHTMLへの変換 (md4c)、ブループリントノードのサポート、およびコンテンツブラウザとの統合。
+*   **ライセンス:** MIT License。
+
 ## 技術記事 (Technical Writing)
 
 * **【UE5】円形ワイプで学ぶ、ポストプロセスのアスペクト比補正** - Qiita
