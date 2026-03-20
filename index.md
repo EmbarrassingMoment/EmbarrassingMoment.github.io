@@ -147,6 +147,24 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 *   **License:** MIT License.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9).
 
+### 5. [MarkdownAssetProject](https://github.com/EmbarrassingMoment/MarkdownAssetProject)
+**UE5 Plugin / Editor Tool**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/markdownasset/editor-overview.png" alt="Editor Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Editor Overview</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/markdownasset/live-preview.gif" alt="Live Preview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Live Preview</p>
+  </div>
+</div>
+
+An Unreal Engine plugin that introduces a custom Markdown asset type with a live HTML preview editor.
+*   **Key Features:** Dual-pane editor with real-time preview, fast C-based Markdown-to-HTML conversion (md4c), Blueprint node support, and Content Browser integration.
+*   **License:** MIT License.
+
 ## Technical Writing
 
 * **[UE5] Implementing a Circular Wipe Transition** - Qiita
