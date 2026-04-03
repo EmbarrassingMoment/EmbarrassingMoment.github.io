@@ -165,6 +165,26 @@ An Unreal Engine plugin that introduces a custom Markdown asset type with a live
 *   **Key Features:** Dual-pane editor with real-time preview, fast C-based Markdown-to-HTML conversion (md4c), Blueprint node support, and Content Browser integration.
 *   **License:** MIT License.
 
+### 6. [TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev)
+**UE5 Plugin / Screen Transition Effects**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/TransitionFX_Dev/master/docs/images/effect_iris.gif" alt="Iris Transition" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Iris Transition</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/TransitionFX_Dev/master/docs/images/effect_spiral.gif" alt="Spiral Transition" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Spiral Transition</p>
+  </div>
+</div>
+
+A lightweight UE5 plugin providing 22+ procedural screen transition effects rendered via SDF math — no textures required. Designed for ease of use with a single Blueprint node and a data-driven preset system.
+*   **Key Features:** 22+ built-in effects (Fade, Iris, Spiral, Split, Tiles, and more), data-driven preset assets, latent Blueprint nodes, GameInstance Subsystem for cross-level persistence, automatic input blocking, and audio sync support.
+*   **Technical Highlights:** Texture-free SDF rendering via PostProcess, 13+ easing curve presets, Forward/Reverse/Invert playback modes, dynamic speed control, and event delegate system.
+*   **Requirements:** UE5.5+, Windows (DX12 SM6).
+*   **License:** MIT License.
+
 ## Technical Writing
 
 * **[UE5] Implementing a Circular Wipe Transition** - Qiita
