@@ -162,8 +162,10 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 </div>
 
 An Unreal Engine plugin that introduces a custom Markdown asset type with a live HTML preview editor.
-*   **Key Features:** Dual-pane editor with real-time preview, fast C-based Markdown-to-HTML conversion (md4c), Blueprint node support, and Content Browser integration.
+*   **Key Features:** Dual-pane editor with real-time preview, fast C-based Markdown-to-HTML conversion (md4c), GitHub Flavored Markdown support (tables, task lists, strikethrough), Blueprint node support (`GetParsedHTML`, `GetRawMarkdownText`, `GetPlainText`), and Content Browser integration.
+*   **Requirements:** UE5.5+, C++ project.
 *   **License:** MIT License.
+*   **Distribution:** Available on [Fab](https://www.fab.com/listings/21ba464a-d8fa-48f5-833d-6894dbe9fe95).
 
 ### 6. [TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev)
 **UE5 Plugin / Screen Transition Effects**
