@@ -166,6 +166,26 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 *   **特徴:** リアルタイムプレビューを備えたデュアルペインエディタ、C言語ベースの高速なMarkdownからHTMLへの変換 (md4c)、ブループリントノードのサポート、およびコンテンツブラウザとの統合。
 *   **ライセンス:** MIT License。
 
+### 6. [TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev)
+**UE5 Plugin / 画面トランジションエフェクト**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/TransitionFX_Dev/master/docs/images/effect_iris.gif" alt="Iris Transition" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">アイリストランジション</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/TransitionFX_Dev/master/docs/images/effect_spiral.gif" alt="Spiral Transition" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">スパイラルトランジション</p>
+  </div>
+</div>
+
+テクスチャ不要のSDF数学を使用したポストプロセスベースの画面トランジションエフェクトを22種類以上提供する軽量UE5プラグインです。単一のBlueprintノードとデータドリブンなプリセットシステムにより、簡単に実装できます。
+*   **特徴:** 22種類以上のビルトインエフェクト（フェード、アイリス、スパイラル、スプリット、タイルなど）、データアセットによるプリセット管理、レイテントBlueprintノード、レベル遷移をまたぐGameInstanceサブシステム、自動入力ブロック、オーディオ同期サポート。
+*   **技術的ハイライト:** テクスチャ不要のSDFレンダリング（ポストプロセス）、13種類以上のイージングカーブプリセット、Forward/Reverse/Invertの再生モード、動的な速度制御、イベントデリゲートシステム。
+*   **動作環境:** UE5.5+、Windows (DX12 SM6)。
+*   **ライセンス:** MIT License。
+
 ## 技術記事 (Technical Writing)
 
 * **【UE5】円形ワイプで学ぶ、ポストプロセスのアスペクト比補正** - Qiita
