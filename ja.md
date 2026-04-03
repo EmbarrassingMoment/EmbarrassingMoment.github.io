@@ -163,8 +163,10 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 </div>
 
 カスタムMarkdownアセットタイプとライブHTMLプレビューエディタを導入するUnreal Engineプラグインです。
-*   **特徴:** リアルタイムプレビューを備えたデュアルペインエディタ、C言語ベースの高速なMarkdownからHTMLへの変換 (md4c)、ブループリントノードのサポート、およびコンテンツブラウザとの統合。
+*   **特徴:** リアルタイムプレビューを備えたデュアルペインエディタ、C言語ベースの高速なMarkdownからHTMLへの変換 (md4c)、GitHub Flavored Markdown対応 (テーブル、タスクリスト、取り消し線)、ブループリントノードのサポート (`GetParsedHTML`, `GetRawMarkdownText`, `GetPlainText`)、およびコンテンツブラウザとの統合。
+*   **動作環境:** UE5.5以上、C++プロジェクト。
 *   **ライセンス:** MIT License。
+*   **配布:** [Fab](https://www.fab.com/listings/21ba464a-d8fa-48f5-833d-6894dbe9fe95) で公開中。
 
 ### 6. [TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev)
 **UE5 Plugin / 画面トランジションエフェクト**
