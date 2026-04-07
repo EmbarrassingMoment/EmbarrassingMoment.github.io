@@ -186,6 +186,7 @@ A lightweight UE5 plugin providing 22+ procedural screen transition effects rend
 *   **Technical Highlights:** Texture-free SDF rendering via PostProcess, 13+ easing curve presets, Forward/Reverse/Invert playback modes, dynamic speed control, and event delegate system.
 *   **Requirements:** UE5.5+, Windows (DX12 SM6).
 *   **License:** MIT License.
+*   **Distribution:** Available on [Fab](https://www.fab.com/listings/82f9a51f-52e6-4a01-a637-43a4dac76c0a).
 
 ## Technical Writing
 
