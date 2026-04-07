@@ -152,7 +152,7 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/markdownasset/editor-overview.png" alt="Editor Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <img src="/assets/images/md/editor-overview.png" alt="Editor Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Editor Overview</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
