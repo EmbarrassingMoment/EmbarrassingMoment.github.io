@@ -187,6 +187,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 *   **技術的ハイライト:** テクスチャ不要のSDFレンダリング（ポストプロセス）、13種類以上のイージングカーブプリセット、Forward/Reverse/Invertの再生モード、動的な速度制御、イベントデリゲートシステム。
 *   **動作環境:** UE5.5+、Windows (DX12 SM6)。
 *   **ライセンス:** MIT License。
+*   **配布:** [Fab](https://www.fab.com/listings/82f9a51f-52e6-4a01-a637-43a4dac76c0a) で公開中。
 
 ## 技術記事 (Technical Writing)
 
