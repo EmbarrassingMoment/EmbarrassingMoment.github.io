@@ -68,26 +68,26 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/Rader.gif" alt="Radar" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/radar.mp4" autoplay loop muted playsinline aria-label="Radar" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">レーダースイープ</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/OldTV.gif" alt="Old TV" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/old-tv.mp4" autoplay loop muted playsinline aria-label="Old TV" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">レトロテレビ風エフェクト</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/PageCurl.gif" alt="Page Curl" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/page-curl.mp4" autoplay loop muted playsinline aria-label="Page Curl" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ページめくりトランジション</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/Snow.gif" alt="Snow" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/snow.mp4" autoplay loop muted playsinline aria-label="Snow" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">雪の結晶</p>
   </div>
 </div>
 
 高度なシェーダー技術を実証する、テクスチャレスなプロシージャルマテリアルのサンプル集です。
 *   **特徴:** レーダー、アニメーション、雪の結晶、トランジションなど多様なエフェクトを収録。
-*   **コミュニティ:** GitHubで150+スター、13フォークを獲得し、高い評価を得ています。
+*   **コミュニティ:** GitHubで160+スター、15フォークを獲得し、高い評価を得ています。
 *   **ライセンス:** MIT License。
 
 ### 2. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
@@ -95,7 +95,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/mirenamer/workflow.mp4" autoplay loop muted playsinline aria-label="Batch Renaming Demo" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">バッチリネームのデモ</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
@@ -114,18 +114,19 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/workflow.gif" alt="Workflow Demo" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/texturechannelpacker/workflow.mp4" autoplay loop muted playsinline aria-label="Workflow Demo" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Workflow Demo</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <img src="/assets/images/texturechannelpacker/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
   </div>
 </div>
 
 グレースケールテクスチャをRGBAチャンネルに統合する高性能ユーティリティで、ゲームアセットの最適化と業界標準テクスチャマップの作成に不可欠です。
-*   **特徴:** ORM/ORDマップ作成、16-bit/32-bit浮動小数点テクスチャ対応、高品質バイリニア補間による自動リサイズ、多言語UI (英語/日本語)。
-*   **技術的ハイライト:** 高速変換のためのマルチスレッド並列処理、拡張フォーマットサポート (G8, G16, R16F, R32F, RGBA32F)、キャンセル可能な進捗ダイアログ、インテリジェントなデフォルト処理 (RGBは黒、Alphaは白)。
+*   **特徴:** 最大4枚のテクスチャを1つのRGBAアセットに統合 (スロットごとの読み取りチャンネル選択と反転に対応)、ORM・MRAなどの組み込みプリセットとカスタムプリセット、統合結果のライブプレビュー、統合済みテクスチャをチャンネルごとに分解するUnpackモード、最大16384の非正方形出力、多言語UI (英語/日本語)。
+*   **技術的ハイライト:** マルチスレッドによる高速なリサイズと変換、16-bitグレースケールや32-bit浮動小数点 (SDF) を含む拡張フォーマットサポート、キャンセル可能な進捗ダイアログ、インテリジェントなデフォルト処理 (RGBは黒、Alphaは白)。
+*   **動作環境:** UE5.5〜5.8、Windows / Mac / Linux。
 *   **配布:** [Fab](https://www.fab.com/listings/7b231ecc-079f-45dc-9b8e-45dacc6b0771) で公開中。
 *   **ライセンス:** MIT License。
 
@@ -134,7 +135,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/quickbaker/workflow.gif" alt="Baking Workflow" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/quickbaker/workflow.mp4" autoplay loop muted playsinline aria-label="Baking Workflow" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ベイク処理のワークフロー</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
@@ -147,6 +148,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 *   **特徴:** アセット(.uasset)への直接保存およびディスクへのエクスポート(PNG/EXR)、16bit浮動小数点精度のサポート、自動命名やディレクトリ管理などのワークフロー最適化機能。
 *   **ライセンス:** MIT License。
 *   **配布:** [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9) で公開中。
+*   **関連プロジェクト:** [MaterialBaker](https://github.com/EmbarrassingMoment/MaterialBaker) — ベイクキューと複数プロパティ (Base Color / Normal / Opacity / Emissive) のベイクに対応したプラグイン。現在は開発を凍結しています。
 
 ### 5. [MarkdownAssetProject](https://github.com/EmbarrassingMoment/MarkdownAssetProject)
 **UE5 Plugin / エディタツール**
@@ -157,13 +159,14 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">エディタの概要</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/markdownasset/live-preview.gif" alt="Live Preview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/md/live-preview.mp4" autoplay loop muted playsinline aria-label="Live Preview" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">ライブプレビュー</p>
   </div>
 </div>
 
 カスタムMarkdownアセットタイプとライブHTMLプレビューエディタを導入するUnreal Engineプラグインです。
-*   **特徴:** リアルタイムプレビューを備えたデュアルペインエディタ、C言語ベースの高速なMarkdownからHTMLへの変換 (md4c)、GitHub Flavored Markdown対応 (テーブル、タスクリスト、取り消し線)、ブループリントノードのサポート (`GetParsedHTML`, `GetRawMarkdownText`, `GetPlainText`)、およびコンテンツブラウザとの統合。
+*   **特徴:** リアルタイムプレビューを備えたデュアルペインエディタ、見出しへジャンプできるアウトラインパネル、検索と置換、Wikiリンク (`[[AssetName]]`) やコンテンツブラウザ上の任意のアセットへのリンク、プロジェクト内テクスチャのプレビューとクリップボードからの画像貼り付け、ダーク/ライトのプレビューテーマ、GitHub Flavored Markdown対応 (テーブル、タスクリスト、取り消し線)、ブループリントノードのサポート (`GetParsedHTML`, `GetRawMarkdownText`, `GetPlainText`)、英語/日本語のエディタUI。
+*   **技術的ハイライト:** C言語ベースの高速なMarkdownからHTMLへの変換 (md4c)、`.md` のインポート/エクスポートと再インポート、Microsoftのmarkitdownを利用した `.pdf` / `.docx` / `.pptx` / `.html` のインポート (任意)、エディタのトランザクションと統合されたUndo/Redo、XSS対策として生HTMLをデフォルトで無効化。
 *   **動作環境:** UE5.5以上、C++プロジェクト。
 *   **ライセンス:** MIT License。
 *   **配布:** [Fab](https://www.fab.com/listings/21ba464a-d8fa-48f5-833d-6894dbe9fe95) で公開中。
@@ -182,12 +185,32 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
   </div>
 </div>
 
-テクスチャ不要のSDF数学を使用したポストプロセスベースの画面トランジションエフェクトを22種類以上提供する軽量UE5プラグインです。単一のBlueprintノードとデータドリブンなプリセットシステムにより、簡単に実装できます。
-*   **特徴:** 22種類以上のビルトインエフェクト（フェード、アイリス、スパイラル、スプリット、タイルなど）、データアセットによるプリセット管理、レイテントBlueprintノード、レベル遷移をまたぐGameInstanceサブシステム、自動入力ブロック、オーディオ同期サポート。
-*   **技術的ハイライト:** テクスチャ不要のSDFレンダリング（ポストプロセス）、13種類以上のイージングカーブプリセット、Forward/Reverse/Invertの再生モード、動的な速度制御、イベントデリゲートシステム。
-*   **動作環境:** UE5.5+、Windows (DX12 SM6)。
+テクスチャ不要のSDF数学による画面トランジションエフェクトを30種類提供する軽量UE5プラグインです。単一のBlueprintノードとデータドリブンなプリセットシステムにより、簡単に実装できます。
+*   **特徴:** 30種類のビルトインエフェクト（フェード、アイリス、スパイラル、ヘキサゴン、ディゾルブ、TVスイッチオフなど）、データアセットによるプリセット管理、レイテントBlueprintノード、フェードアウト→レベル読み込み→フェードインを1ノードで行う `Open Level With Transition`、複数のトランジションを連結するシーケンス再生、レベル遷移をまたぐGameInstanceサブシステム、自動入力ブロック、オーディオ同期サポート。
+*   **技術的ハイライト:** プリセット単位で切り替えられる2つの描画方式（テクスチャ不要のSDFによるポストプロセス描画と、UMG/Slate UIの上まで覆うフルスクリーンのウィジェットレイヤー描画。ウィジェットレイヤー版は15種類）、13種類のイージングカーブ、Forward/Reverse/Invertの再生モード、動的な速度制御、イベントデリゲートシステム、スクラブ再生とGIFキャプチャに対応したエディタプレビューツール。
+*   **動作環境:** UE5.5+、Windows (DX12 SM6)。Blueprintのみのプロジェクトでも、C++プロジェクトでも使用可能。
 *   **ライセンス:** MIT License。
 *   **配布:** [Fab](https://www.fab.com/listings/82f9a51f-52e6-4a01-a637-43a4dac76c0a) で公開中。
+
+### 7. [LoadingFX](https://github.com/EmbarrassingMoment/LoadingFX_Dev)
+**UE5 Plugin / ローディング表示**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/LoadingFX_Dev/main/Docs/images/spinners.gif" alt="Bundled Spinners and Bars" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">同梱のスピナーとローディングバー</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/LoadingFX_Dev/main/Docs/images/loading-icon.gif" alt="Loading Icon During Map Travel" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">マップ遷移中もローディングアイコンを表示</p>
+  </div>
+</div>
+
+プロシージャルなスピナーとローディングバーのライブラリ、どこからでも表示・非表示できるプロジェクト共通のローディングアイコン、進捗付きの軽量なアセットローダーを提供するUE5プラグインです。
+*   **特徴:** テクスチャ不要のSDFマテリアルによるスピナー18種とローディングバー3種、マップ遷移をまたいで維持される参照カウント方式のローディングアイコン用サブシステム (Blueprint / C++)、ちらつきを防ぐ表示遅延と最低表示時間、UMG用のスピナー/プログレスバーウィジェット、進捗表示とキャンセルに対応した非同期アセットローダー。
+*   **技術的ハイライト:** ゲームスレッドがブロックされている間 (`OpenLevel` や同期ロード中) もエンジンのMoviePlayer経由で描画してアイコンを動かし続ける仕組み、ローディングアイコンとローダーを互いに依存しないランタイムモジュールに分け、必要に応じてブリッジモジュールで連携させる構成。
+*   **動作環境:** UE5.5〜5.8、Windows (Linuxはコンパイル確認済み)。Blueprintのみのプロジェクトでも、C++プロジェクトでも使用可能。
+*   **ライセンス:** MIT License。
 
 ## 技術記事 (Technical Writing)
 
@@ -197,14 +220,11 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 
 ## GitHub活動状況 (GitHub Activity)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;" loading="lazy">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;" loading="lazy">
-  </div>
-</div>
+[![Total Stars](https://img.shields.io/github/stars/EmbarrassingMoment?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=e3b341)](https://github.com/EmbarrassingMoment?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/EmbarrassingMoment?style=for-the-badge&logo=github&label=Followers&color=58a6ff)](https://github.com/EmbarrassingMoment?tab=followers)
+
+* **UE5プラグイン:** GitHubで6本を公開し、そのうち5本を[Fab](https://www.fab.com/sellers/kurorekishi)でも配布中。
+* **スター数上位:** [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)、[TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev)。
 
 ## コンタクト & リンク (Contact & Links)
 

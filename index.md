@@ -67,26 +67,26 @@ Identified a regression bug in the Material Editor occurring in UE5.6/5.7 and su
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/Rader.gif" alt="Radar" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/radar.mp4" autoplay loop muted playsinline aria-label="Radar" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Radar Sweep</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/OldTV.gif" alt="Old TV" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/old-tv.mp4" autoplay loop muted playsinline aria-label="Old TV" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Retro TV Effect</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/PageCurl.gif" alt="Page Curl" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/page-curl.mp4" autoplay loop muted playsinline aria-label="Page Curl" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Page Curl Transition</p>
   </div>
   <div style="flex: 1 0 45%; min-width: 250px;">
-    <img src="/assets/images/procedural/Snow.gif" alt="Snow" loading="lazy" style="width: 100%; border-radius: 4px;">
+    <video src="/assets/images/procedural/snow.mp4" autoplay loop muted playsinline aria-label="Snow" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Snow Crystal</p>
   </div>
 </div>
 
 A collection of textureless procedural material samples demonstrating advanced shader techniques.
 *   **Key Features:** Includes diverse effects such as radar, animations, snowflakes, and transitions.
-*   **Community:** Highly regarded with 150+ stars and 13+ forks on GitHub.
+*   **Community:** Highly regarded with 160+ stars and 15 forks on GitHub.
 *   **License:** MIT License.
 
 ### 2. [MIRenamer](https://github.com/EmbarrassingMoment/MIRenamer)
@@ -94,7 +94,7 @@ A collection of textureless procedural material samples demonstrating advanced s
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/mirenamer/workflow.gif" alt="Batch Renaming Demo" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/mirenamer/workflow.mp4" autoplay loop muted playsinline aria-label="Batch Renaming Demo" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Batch Renaming Demo</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
@@ -113,18 +113,19 @@ A powerful plugin for automating the naming of Material Instance assets with int
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/workflow.gif" alt="Workflow Demo" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/texturechannelpacker/workflow.mp4" autoplay loop muted playsinline aria-label="Workflow Demo" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Workflow Demo</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <img src="/assets/images/texturechannelpacker/ui_overview.jpg" alt="UI Overview" style="width: 100%; border-radius: 4px;" loading="lazy">
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">UI Overview</p>
   </div>
 </div>
 
 A high-performance utility for packing grayscale textures into RGBA channels, essential for optimizing game assets and creating industry-standard texture maps.
-*   **Key Features:** Creates ORM/ORD maps, supports 16-bit/32-bit float textures, automatic resizing with high-quality bilinear interpolation, and multi-language UI (English/Japanese).
-*   **Technical Highlights:** Multi-threaded parallel processing for fast conversion, extended format support (G8, G16, R16F, R32F, RGBA32F), cancellable progress dialog, and intelligent default handling (black for RGB, white for Alpha).
+*   **Key Features:** Packs up to four textures into one RGBA asset with a per-slot source channel selector and invert toggle, built-in and custom presets (ORM, MRA), a live preview of the packed result, an Unpack mode that splits a packed texture back into separate channels, non-square output up to 16384, and multi-language UI (English/Japanese).
+*   **Technical Highlights:** Multi-threaded resizing and conversion, extended format support including 16-bit grayscale and 32-bit float (SDF) sources, cancellable progress dialog, and intelligent default handling (black for RGB, white for Alpha).
+*   **Requirements:** UE5.5 – 5.8, Windows / Mac / Linux.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/7b231ecc-079f-45dc-9b8e-45dacc6b0771).
 *   **License:** MIT License.
 
@@ -133,7 +134,7 @@ A high-performance utility for packing grayscale textures into RGBA channels, es
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/quickbaker/workflow.gif" alt="Baking Workflow" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/quickbaker/workflow.mp4" autoplay loop muted playsinline aria-label="Baking Workflow" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Baking Workflow</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
@@ -146,6 +147,7 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
 *   **Key Features:** Supports direct-to-asset baking (.uasset) and disk export (PNG/EXR), high-precision 16-bit float output, and workflow optimizations such as auto-naming and directory management.
 *   **License:** MIT License.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/b53f5488-9b96-43cd-9963-e9fedafb56e9).
+*   **Earlier Work:** [MaterialBaker](https://github.com/EmbarrassingMoment/MaterialBaker), a queue-based baking plugin that bakes multiple material properties (Base Color, Normal, Opacity, Emissive). Its development is currently frozen.
 
 ### 5. [MarkdownAssetProject](https://github.com/EmbarrassingMoment/MarkdownAssetProject)
 **UE5 Plugin / Editor Tool**
@@ -156,13 +158,14 @@ A lightweight editor tool designed to streamline the conversion of dynamic mater
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Editor Overview</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/markdownasset/live-preview.gif" alt="Live Preview" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <video src="/assets/images/md/live-preview.mp4" autoplay loop muted playsinline aria-label="Live Preview" style="width: 100%; border-radius: 4px;"></video>
     <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Live Preview</p>
   </div>
 </div>
 
 An Unreal Engine plugin that introduces a custom Markdown asset type with a live HTML preview editor.
-*   **Key Features:** Dual-pane editor with real-time preview, fast C-based Markdown-to-HTML conversion (md4c), GitHub Flavored Markdown support (tables, task lists, strikethrough), Blueprint node support (`GetParsedHTML`, `GetRawMarkdownText`, `GetPlainText`), and Content Browser integration.
+*   **Key Features:** Dual-pane editor with real-time preview, an outline panel for jumping between headings, find & replace, wikilinks (`[[AssetName]]`) and links to any Content Browser asset, project texture previews with clipboard image paste, dark/light preview themes, GitHub Flavored Markdown support (tables, task lists, strikethrough), Blueprint node support (`GetParsedHTML`, `GetRawMarkdownText`, `GetPlainText`), and English/Japanese editor UI.
+*   **Technical Highlights:** Fast C-based Markdown-to-HTML conversion (md4c), `.md` import/export with reimport, optional `.pdf` / `.docx` / `.pptx` / `.html` import through Microsoft's markitdown, undo/redo integrated with the editor transaction system, and raw HTML disabled by default to prevent XSS.
 *   **Requirements:** UE5.5+, C++ project.
 *   **License:** MIT License.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/21ba464a-d8fa-48f5-833d-6894dbe9fe95).
@@ -181,12 +184,32 @@ An Unreal Engine plugin that introduces a custom Markdown asset type with a live
   </div>
 </div>
 
-A lightweight UE5 plugin providing 22+ procedural screen transition effects rendered via SDF math — no textures required. Designed for ease of use with a single Blueprint node and a data-driven preset system.
-*   **Key Features:** 22+ built-in effects (Fade, Iris, Spiral, Split, Tiles, and more), data-driven preset assets, latent Blueprint nodes, GameInstance Subsystem for cross-level persistence, automatic input blocking, and audio sync support.
-*   **Technical Highlights:** Texture-free SDF rendering via PostProcess, 13+ easing curve presets, Forward/Reverse/Invert playback modes, dynamic speed control, and event delegate system.
-*   **Requirements:** UE5.5+, Windows (DX12 SM6).
+A lightweight UE5 plugin providing 30 procedural screen transition effects rendered via SDF math — no textures required. Designed for ease of use with a single Blueprint node and a data-driven preset system.
+*   **Key Features:** 30 built-in effects (Fade, Iris, Spiral, Hexagon, Dissolve, TV Switch Off, and more), data-driven preset assets, latent Blueprint nodes, `Open Level With Transition` for fade-out → level load → fade-in in one node, sequence playback that chains multiple transitions, GameInstance Subsystem for cross-level persistence, automatic input blocking, and audio sync support.
+*   **Technical Highlights:** Two rendering paths switchable per preset — texture-free SDF rendering via PostProcess, or a full-screen widget layer that also covers UMG/Slate UI (15 widget-layer variants) — plus 13 easing curves, Forward/Reverse/Invert playback modes, dynamic speed control, an event delegate system, and an editor preview tool with scrubbing and built-in GIF capture.
+*   **Requirements:** UE5.5+, Windows (DX12 SM6). Works with both Blueprint-only and C++ projects.
 *   **License:** MIT License.
 *   **Distribution:** Available on [Fab](https://www.fab.com/listings/82f9a51f-52e6-4a01-a637-43a4dac76c0a).
+
+### 7. [LoadingFX](https://github.com/EmbarrassingMoment/LoadingFX_Dev)
+**UE5 Plugin / Loading Indicators**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/LoadingFX_Dev/main/Docs/images/spinners.gif" alt="Bundled Spinners and Bars" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Bundled Spinners &amp; Bars</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://raw.githubusercontent.com/EmbarrassingMoment/LoadingFX_Dev/main/Docs/images/loading-icon.gif" alt="Loading Icon During Map Travel" style="width: 100%; border-radius: 4px;" loading="lazy">
+    <p style="font-size: 0.8em; text-align: center; color: #888; margin-top: 5px;">Loading Icon During Map Travel</p>
+  </div>
+</div>
+
+A loading indicator plugin for UE5: a library of procedural spinners and loading bars, a project-wide loading icon that can be shown and hidden from anywhere, and a lightweight asset loader with progress.
+*   **Key Features:** 18 spinners and 3 loading bars built as texture-free SDF materials, a reference-counted loading icon subsystem (Blueprint / C++) that survives map travel, show delay and minimum display time to prevent flicker, UMG spinner and progress bar widgets, and an asynchronous asset loader with progress and cancel.
+*   **Technical Highlights:** Keeps the icon animating while the game thread is blocked (`OpenLevel`, synchronous loads) by rendering it through the engine's MoviePlayer, and splits the icon and the loader into independent runtime modules connected by an optional bridge module.
+*   **Requirements:** UE5.5 – 5.8, Windows (Linux compile-checked). Works with both Blueprint-only and C++ projects.
+*   **License:** MIT License.
 
 ## Technical Writing
 
@@ -196,14 +219,11 @@ A lightweight UE5 plugin providing 22+ procedural screen transition effects rend
 
 ## GitHub Activity
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EmbarrassingMoment&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;" loading="lazy">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmbarrassingMoment&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" style="width: 100%;" loading="lazy">
-  </div>
-</div>
+[![Total Stars](https://img.shields.io/github/stars/EmbarrassingMoment?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=e3b341)](https://github.com/EmbarrassingMoment?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/EmbarrassingMoment?style=for-the-badge&logo=github&label=Followers&color=58a6ff)](https://github.com/EmbarrassingMoment?tab=followers)
+
+* **UE5 plugins:** 6 published on GitHub, 5 of them also distributed on [Fab](https://www.fab.com/sellers/kurorekishi).
+* **Most starred:** [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples) and [TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev).
 
 ## Contact & Links
 
