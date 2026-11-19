@@ -211,6 +211,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 *   **技術的ハイライト:** ゲームスレッドがブロックされている間 (`OpenLevel` や同期ロード中) もエンジンのMoviePlayer経由で描画してアイコンを動かし続ける仕組み、ローディングアイコンとローダーを互いに依存しないランタイムモジュールに分け、必要に応じてブリッジモジュールで連携させる構成。
 *   **動作環境:** UE5.5〜5.8、Windows (Linuxはコンパイル確認済み)。Blueprintのみのプロジェクトでも、C++プロジェクトでも使用可能。
 *   **ライセンス:** MIT License。
+*   **配布:** [Fab](https://www.fab.com/listings/8907b7ec-4db6-4bd4-9f98-2052f3f23032) で公開中。
 
 ## 技術記事 (Technical Writing)
 
@@ -223,7 +224,7 @@ UE5.6/5.7で発生していたマテリアルエディタのリグレッショ�
 [![Total Stars](https://img.shields.io/github/stars/EmbarrassingMoment?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=e3b341)](https://github.com/EmbarrassingMoment?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/EmbarrassingMoment?style=for-the-badge&logo=github&label=Followers&color=58a6ff)](https://github.com/EmbarrassingMoment?tab=followers)
 
-* **UE5プラグイン:** GitHubで6本を公開し、そのうち5本を[Fab](https://www.fab.com/sellers/kurorekishi)でも配布中。
+* **UE5プラグイン:** GitHubで6本を公開し、すべて[Fab](https://www.fab.com/sellers/kurorekishi)でも配布中。
 * **スター数上位:** [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples)、[TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev)。
 
 ## コンタクト & リンク (Contact & Links)

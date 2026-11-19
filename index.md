@@ -210,6 +210,7 @@ A loading indicator plugin for UE5: a library of procedural spinners and loading
 *   **Technical Highlights:** Keeps the icon animating while the game thread is blocked (`OpenLevel`, synchronous loads) by rendering it through the engine's MoviePlayer, and splits the icon and the loader into independent runtime modules connected by an optional bridge module.
 *   **Requirements:** UE5.5 – 5.8, Windows (Linux compile-checked). Works with both Blueprint-only and C++ projects.
 *   **License:** MIT License.
+*   **Distribution:** Available on [Fab](https://www.fab.com/listings/8907b7ec-4db6-4bd4-9f98-2052f3f23032).
 
 ## Technical Writing
 
@@ -222,7 +223,7 @@ A loading indicator plugin for UE5: a library of procedural spinners and loading
 [![Total Stars](https://img.shields.io/github/stars/EmbarrassingMoment?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=e3b341)](https://github.com/EmbarrassingMoment?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/EmbarrassingMoment?style=for-the-badge&logo=github&label=Followers&color=58a6ff)](https://github.com/EmbarrassingMoment?tab=followers)
 
-* **UE5 plugins:** 6 published on GitHub, 5 of them also distributed on [Fab](https://www.fab.com/sellers/kurorekishi).
+* **UE5 plugins:** 6 published on GitHub, all of them also distributed on [Fab](https://www.fab.com/sellers/kurorekishi).
 * **Most starred:** [ProceduralDrawingMaterialSamples](https://github.com/EmbarrassingMoment/ProceduralDrawingMaterialSamples) and [TransitionFX](https://github.com/EmbarrassingMoment/TransitionFX_Dev).
 
 ## Contact & Links
